@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Our&#39;s blog</title>
+  
+  <subtitle>Wendy &amp; Clarence</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://lemonblog.ml/"/>
+  <updated>2020-05-03T08:14:29.160Z</updated>
+  <id>http://lemonblog.ml/</id>
+  
+  <author>
+    <name>Clarence</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://lemonblog.ml/2020/05/01/hello-world/"/>
+    <id>http://lemonblog.ml/2020/05/01/hello-world/</id>
+    <published>2020-05-01T14:00:49.026Z</published>
+    <updated>2020-05-03T08:14:29.160Z</updated>
+    
+    <content type="html"><![CDATA[<p>hello word</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;hello word&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
